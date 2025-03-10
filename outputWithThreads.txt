@@ -1,0 +1,4 @@
+Error: 151
+Warning: 807
+Info: 1042
+Time taken: 0.285679 seconds
